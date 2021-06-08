@@ -16,7 +16,7 @@ This repository is ...
 
 - [Participate in discussions and learn about how this repository is being built.](https://github.com/Council-of-DAOs/Council-Hub/discussions)
 
-- [Discussion of the initial setup of this repository]()
+- [Discussion of the initial setup of this repository](https://github.com/Council-of-DAOs/Council-Hub/discussions/6)
 
 ## Current Activity :
 The focus of current activity is 
