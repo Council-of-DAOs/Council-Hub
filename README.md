@@ -19,8 +19,7 @@ This repository is ...
 - [Discussion of the initial setup of this repository]()
 
 ## Current Activity :
-The focus of current activity is drafting a Code of Conduct
-- [Discussion of the draft Code of Conduct]()
+The focus of current activity is 
 
 ## Contributing: 
 A summary of how to contribute with a link to a more detailed [Contribution file](CONTRIBUTE.md).
