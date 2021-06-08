@@ -10,11 +10,11 @@ Catalyst Proposers Communications hub
 
 - TODO - A short description of Council-Hub. Why it is useful and what it does.
 
-This repository is both a store of documentation and training materials for Adagov.org.
+This repository is ...
 
 ## Discussions
 
-- [Participate in discussions and learn about how this repository is being built.](https://github.com/adagovorg/Council-of-DAOs/Council-Hub/discussions)
+- [Participate in discussions and learn about how this repository is being built.](https://github.com/Council-of-DAOs/Council-Hub/discussions)
 
 - [Discussion of the initial setup of this repository]()
 
@@ -29,5 +29,5 @@ A summary of how to contribute with a link to a more detailed [Contribution file
 The main participants in/contributors to Council-of-DAOs/Council-Hub are ...
 
 ## License: 
-The Open-Source License is [Apache License 2.0](hhttps://github.com/adagovorg/Council-of-DAOs/Council-Hub/LICENSE.txt) - why you choose it.
+The Open-Source License is [Apache License 2.0](hhttps://github.com/Council-of-DAOs/Council-Hub/LICENSE.txt) - why you choose it.
 
