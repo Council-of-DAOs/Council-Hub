@@ -1,12 +1,12 @@
+<a href="https://cardano.org/"><img src="https://github.com/NFT-DAO/Governance-HOLON/blob/main/Business-Plan/14-Our-Appendix/Graphics/cardano-logo-2.png" align="right" width="100">
+<a href="https://cardano.ideascale.com/a/index"><img src="https://github.com/NFT-DAO/Governance-HOLON/blob/main/Business-Plan/14-Our-Appendix/Graphics/ideascale.png" align="right" width="70">
+
 [![GitHub open issues](https://img.shields.io/github/issues/Council-of-DAOs/Council-Hub?style=flat-square)](https://github.com/Council-of-DAOs/Council-Hub/issues)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Council-of-DAOs/Council-Hub?style=flat-square)](https://github.com/Council-of-DAOs/Council-Hub/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/Council-of-DAOs/Council-Hub)](https://github.com/Council-of-DAOs/Council-Hub/pulls)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Council-of-DAOs/Council-Hub)](https://github.com/Council-of-DAOs/Council-Hub/pulls?q=is%3Apr+is%3Aclosed)
 [![GitHub milestones](https://img.shields.io/github/milestones/open/Council-of-DAOs/Council-Hub?style=flat-square)](https://github.com/Council-of-DAOs/Council-Hub/milestones)
 
-
-<a href="https://cardano.org/"><img src="https://github.com/NFT-DAO/Governance-HOLON/blob/main/Business-Plan/14-Our-Appendix/Graphics/cardano-logo-2.png" align="right" width="100">
-<a href="https://cardano.ideascale.com/a/index"><img src="https://github.com/NFT-DAO/Governance-HOLON/blob/main/Business-Plan/14-Our-Appendix/Graphics/ideascale.png" align="right" width="70">
 
 # Council-Hub
 
