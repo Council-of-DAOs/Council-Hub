@@ -38,6 +38,6 @@ The main participants in/contributors to Council-of-DAOs/Council-Hub are ...
 
 ## License: 
 
-  The Open-Source License is [Apache License 2.0](hhttps://github.com/Council-of-DAOs/Council-Hub/LICENSE.txt) - why you choose it.
+  The Open-Source License is [Apache License 2.0](LICENSE.txt) - why you choose it.
 
 
