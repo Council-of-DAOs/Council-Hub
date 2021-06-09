@@ -5,12 +5,12 @@
 [![GitHub milestones](https://img.shields.io/github/milestones/open/Council-of-DAOs/Council-Hub?style=flat-square)](https://github.com/Council-of-DAOs/Council-Hub/milestones)
 
 
+<a href="https://cardano.org/"><img src="https://github.com/NFT-DAO/Governance-HOLON/blob/main/Business-Plan/14-Our-Appendix/Graphics/cardano-logo-2.png" align="right" width="100">
+<a href="https://cardano.ideascale.com/a/index"><img src="https://github.com/NFT-DAO/Governance-HOLON/blob/main/Business-Plan/14-Our-Appendix/Graphics/ideascale.png" align="right" width="70">
+
 # Council-Hub
-Catalyst Proposers Communications hub
 
-- TODO - A short description of Council-Hub. Why it is useful and what it does.
-
-This repository is both a store of documentation and training materials for Adagov.org.
+This repository supports a communications hub for [Project Catalyst](https://cardano.ideascale.com/) distributed organisations and community projects.
 
 ## Discussions
 
@@ -29,5 +29,5 @@ A summary of how to contribute with a link to a more detailed [Contribution file
 The main participants in/contributors to Council-of-DAOs/Council-Hub are ...
 
 ## License: 
-The Open-Source License is [Apache License 2.0](hhttps://github.com/adagovorg/Council-of-DAOs/Council-Hub/LICENSE.txt) - why you choose it.
+The Open-Source License is [Apache License 2.0](https://github.com/adagovorg/Council-of-DAOs/Council-Hub/LICENSE.txt) - why you choose it.
 
