@@ -9,8 +9,8 @@
 
 
 # Council-Hub
-
-This repository supports a communications hub for [Project Catalyst](https://cardano.ideascale.com/) distributed organisations and community projects.
+ 
+This repository supports a communications hub for [Project Catalyst](https://cardano.ideascale.com/) distributed organisations and community projects. It has arisen out of an initiative to form **A Council of Catalyst DAOs**  that has been submitted as a Project Catalyst [Fund 5: Distributed decision-making proposal](https://cardano.ideascale.com/a/dtd/A-Council-of-Catalyst-DAOs/352206-48088).
 
 ## Discussions
 
