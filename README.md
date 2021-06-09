@@ -14,13 +14,12 @@ This repository supports a communications hub for [Project Catalyst](https://car
 
 ## Discussions
 
-- [Participate in discussions and learn about how this repository is being built.](https://github.com/adagovorg/Council-of-DAOs/Council-Hub/discussions)
+- [Participate in discussions and learn about how this repository is being built.](https://github.com/Council-of-DAOs/Council-Hub/discussions)
 
-- [Discussion of the initial setup of this repository]()
+- [Discussion of the initial setup of this repository](https://github.com/Council-of-DAOs/Council-Hub/discussions/6)
 
 ## Current Activity :
-The focus of current activity is drafting a Code of Conduct
-- [Discussion of the draft Code of Conduct]()
+The focus of current activity is 
 
 ## Contributing: 
 A summary of how to contribute with a link to a more detailed [Contribution file](CONTRIBUTE.md).
@@ -29,5 +28,7 @@ A summary of how to contribute with a link to a more detailed [Contribution file
 The main participants in/contributors to Council-of-DAOs/Council-Hub are ...
 
 ## License: 
-The Open-Source License is [Apache License 2.0](https://github.com/adagovorg/Council-of-DAOs/Council-Hub/LICENSE.txt) - why you choose it.
+
+  The Open-Source License is [Apache License 2.0](hhttps://github.com/Council-of-DAOs/Council-Hub/LICENSE.txt) - why you choose it.
+
 
