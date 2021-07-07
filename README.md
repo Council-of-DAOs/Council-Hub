@@ -18,7 +18,7 @@ It has arisen out of an initiative to form **A Council of Catalyst DAOs**  that 
  
 ## Other Information sources
  
-This repository supports and complements the development of other Catalyst coomunity information sources such as the [Cardano Catalyst Community Site](https://cardanocataly.st/) and [Adagov.org](https://www.adagov.org/en/catalyst).
+This repository supports and complements the development of other Catalyst community information sources such as the [Cardano Catalyst Community Site](https://cardanocataly.st/) and [Adagov.org](https://www.adagov.org/en/catalyst).
 
  
 ## Discussions
