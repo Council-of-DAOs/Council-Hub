@@ -1,5 +1,3 @@
-# THIS IS A DRAFT
-
 # Code of Conduct
 
 ## Diversity of identity and thought.
